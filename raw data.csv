@@ -1,0 +1,33 @@
+﻿"Police-reported hate crime, by type of motivation, Canada (selected police services) 1 2 3",,,,,,,,
+Annual,,,,,,,,
+Table: 35-10-0066-01 (formerly CANSIM 252-0092),,,,,,,,
+Geography: Canada,,,,,,,,
+,,,,,,,,
+,"Canada, selected police services 4 5 (map)",,,,,,,
+Type of motivation,2012,2013,2014,2015,2016,2017,2018,2019
+,Number,,,,,,,
+Total police-reported hate crime,..,..,"1,295","1,362","1,409","2,073","1,817","1,946"
+Race or ethnicity,..,..,611,641,666,878,793,876
+Religion,..,..,429,469,460,842,657,608
+Sexual orientation,..,..,155,141,176,204,186,263
+Language,..,..,12,18,13,23,14,27
+Disability,..,..,10,8,11,10,9,5
+Sex,..,..,22,12,24,32,54,53
+Age,..,..,6,4,5,4,9,9
+Other similar factor 6,..,..,27,44,35,48,73,58
+Unknown motivation,..,..,23,25,19,32,22,47
+,,,,,,,,
+Symbol legend:,,,,,,,,
+..,not available for a specific reference period,,,,,,,
+,,,,,,,,
+Footnotes:,,,,,,,,
+1,"Hate crimes refer to criminal offences motivated by bias, prejudice, or hate based on race, national or ethnic origin, language, colour, religion, sex, age, mental or physical disability, sexual orientation or any other similar factor, such as profession or political beliefs. For more information on the concepts, methods and quality of the data contained in this table, consult the statistical data documentation Uniform Crime Reporting Survey - 3302.",,,,,,,
+2,"Data for previous years are available upon request. For further details, contact the Canadian Centre for Justice and Community Safety Statistics at statcan.ccjs-ccsj.statcan@canada.ca.",,,,,,,
+3,"Over the past two decades, police services across Canada have continued to advance their identification and reporting of hate crime incidents. Changes in reporting practices can have an effect on hate crime statistics. For example, an increase in the number of hate crime incidents reported can be influenced by the introduction of a hate crime awareness campaign.",,,,,,,
+4,"Includes data from municipal and provincial police services as well as the Royal Canadian Mounted Police (RCMP) covering 99.7% of the Canadian population. Coverage for each province/territory is as follows: Newfoundland and Labrador (100%), Prince Edward Island (100%), Nova Scotia (100%), New Brunswick (100%), Quebec (99.3%), Ontario (99.6 %), Manitoba (99.8%), Saskatchewan (98.8%), Alberta (100%), British Columbia (100%), Yukon (100%), Northwest Territories (100%) and Nunavut (100%).These percentages are based on 2019 populations.",,,,,,,
+5,"Excluded from this table are the small number of police services that do not report to the Uniform Crime Reporting Survey (UCR) 2. With the exception of Lasalle Police Service, Kahnawake Mohawk Peacekeepers, Six Nations Police Service and Dalmeny Police Service  in 2017, who provided data through special submission.",,,,,,,
+6,"""Other similar factor"" includes motivations not otherwise stated above, such as profession or political beliefs.",,,,,,,
+,,,,,,,,
+"How to cite: Statistics Canada. Table 35-10-0066-01 Police-reported hate crime, by type of motivation, Canada (selected police services)",,,,,,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006601,,,,,,,,
+DOI: https://doi.org/10.25318/3510006601-eng,,,,,,,,
