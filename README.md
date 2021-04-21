@@ -19,6 +19,8 @@ barplots for every year (2014-2019) that express the different types of motivati
 ![image](https://user-images.githubusercontent.com/79335960/113455287-1973fb00-93bf-11eb-87fd-cde834ce41c2.png)
 ![image](https://user-images.githubusercontent.com/79335960/113455299-21339f80-93bf-11eb-99c1-54fc6e2ffce0.png)
 
+A processing step that I did for the above barcharts was to use the R function coord_flip() so that all the "Types of Motivation" would be visible/readable. 
+
 **Visualization:**
 lineplot of the type of hate crime motivation as sexual orientation in each year:
 
