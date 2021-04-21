@@ -3,7 +3,7 @@
 **Personal Dataset Project on LGBTQ+ Hate Crime**
 
 **Motivating Question:**
-How many police-reported hate crime in Canada was LGBTQ+ motivated?
+How many police-reported hate crime in Canada was LGBTQ+ (Sexual Orientation) motivated?
 
 **Data Source:** 
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006601&cubeTimeFrame.startYear=2012&cubeTimeFrame.endYear=2019&referencePeriods=20120101%2C20190101
