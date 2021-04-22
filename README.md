@@ -9,6 +9,8 @@ How many police-reported hate crime in Canada was LGBTQ+ (Sexual Orientation) mo
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006601&cubeTimeFrame.startYear=2012&cubeTimeFrame.endYear=2019&referencePeriods=20120101%2C20190101 This website is where the official Canadian census data is reported.
 I chose Statistics Canada because they are a reliable source that has current data (2012 to 2019). The question I was asking was "How many police-reported hate crime in Canada was LGBTQ+ motivated?" I wish I could compare this data to the U.S. but unfortunately we haven't researched it enough (probably because there is less acceptance here and therefore less reason for the U.S. to go to the trouble to see if the LGBTQ+ community is being targeted for hate crime). I am therefore going to look at the difference between the individual years and see if there is a trend between the data on sexual orientation being the type of motivation listed on police-reported hate crime. I will also show the other types of hate crime motivations compared to the 'sexual orientation' column.
 
+This is what the origional dataset looked like:
+![image](https://user-images.githubusercontent.com/79335960/115638228-d377cc00-a2c6-11eb-8b74-0b06d79c9649.png)
 One of the footnotes attached to the dataset from Statistics Canada had the following information about the different territorys the data was retrieved from: "Includes data from municipal and provincial police services as well as the Royal Canadian Mounted Police (RCMP) covering 99.7% of the Canadian population. Coverage for each province/territory is as follows: Newfoundland and Labrador (100%), Prince Edward Island (100%), Nova Scotia (100%), New Brunswick (100%), Quebec (99.3%), Ontario (99.6 %), Manitoba (99.8%), Saskatchewan (98.8%), Alberta (100%), British Columbia (100%), Yukon (100%), Northwest Territories (100%) and Nunavut (100%).These percentages are based on 2019 populations."
 
 **Data Process:** 
@@ -23,7 +25,7 @@ barplots for every year (2014-2019) that express the different types of motivati
 
 A processing step that I did for the above barcharts was to use the R function coord_flip() so that all the "Types of Motivation" would be visible/readable. 
 
-**Visualization:**
+**Visualization and Analytical Technique:**
 lineplot of the type of hate crime motivation as sexual orientation in each year:
 
 ![image](https://user-images.githubusercontent.com/79335960/113455376-4aecc680-93bf-11eb-8af3-e0ac8e7d28ec.png)
@@ -32,4 +34,5 @@ lineplot of the type of hate crime motivation as sexual orientation in each year
 I learned from this technique for analyzing data that there has been a significant increase over the indicated years of assault based on sexual orientation.
 We can see a very significant positive trend in the lineplot. 
 
-**Analytical Technique:** 
+**Conclusion:**
+I learned a little bit from this dataset about how sexual orientation is a growing hate crime according to police-reported statements from Statistics Canada. However, I don't believe there is adequite enough data to determine unarguably that there is actually more hate crimes being committed against members of the LGBTQ+ community. A factor that was not included in the data that could sway the results would be that there are more members of the community that are coming forward so the rate at which they are being hate crimed could be exactly the same each year increasing only because their numbers are increasing. This could be a possibility because more people are feeling confident enough to come out as being a member since there are people actively trying to make the world a less-judgemental, safe place. Same sex marriage was legalized across all of Canada in 2005. That would be two years into this collection of data.
