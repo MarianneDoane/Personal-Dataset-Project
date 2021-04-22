@@ -4,7 +4,7 @@
 **Personal Dataset Project on LGBTQ+ Hate Crime**
 
 **Motivating Question:**
-How many police-reported hate crime in Canada was LGBTQ+ (Sexual Orientation) motivated? This question is significant to me because I am the L in LGBTQ and I have experienced hate crime myself. Therefore, I thought it would be interesting to analyze the statistics that Canada has to offer on police-reported hate crime on members of the LGBTQ+ community so that 1). I would not feel alone in the struggle for equil rights, and 2). to bring awareness to how minority groups are treated.
+How many police-reported hate crime in Canada was LGBTQ+ (Sexual Orientation) motivated? This question is significant to me because I am the L in LGBTQ and I have experienced hate crime myself. Therefore, I thought it would be interesting to analyze the statistics that Canada has to offer on police-reported hate crime on members of the LGBTQ+ community so that 1). I would not feel alone in the struggle for equal rights, and 2). to bring awareness to how minority groups are treated.
 
 **Data Source:** 
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510006601&cubeTimeFrame.startYear=2012&cubeTimeFrame.endYear=2019&referencePeriods=20120101%2C20190101 This website is where the official Canadian census data is reported.
